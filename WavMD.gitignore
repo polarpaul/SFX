@@ -1,0 +1,4 @@
+# ingnore all but .wav or .md
+!*.wav
+!*.md
+!WavMD.gitignore
